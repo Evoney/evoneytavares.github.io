@@ -7,13 +7,10 @@
 </h4>
 
 <p align="center">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Evoney/
-evoney.github.io?color=ffc107">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Evoney/evoney.github.io?color=ffc107">
 <img alt="Made by Evoney Mendonça" src="https://img.shields.io/badge/made%20by-Evoney-%20?color=Effc107">
-<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Evoney/
-evoney.github.io?color=ffc107">
- <img alt="GitHub license" src="https://img.shields.io/github/license/Evoney/
-evoney.github.io?color=7159C1">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Evoney/evoney.github.io?color=ffc107">
+ <img alt="GitHub license" src="https://img.shields.io/github/license/Evoney/evoney.github.io?color=7159C1">
 </p> 
 
 <p align="center">
